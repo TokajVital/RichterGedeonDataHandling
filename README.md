@@ -6,3 +6,8 @@ Solution proposal:
 1. option: Distributed Database Architecture for GDPR
 2. option: Federated learning
 3. option: Storing medical data with block chain technology
+
+Distributed Database Architecture for GDPR application usage:
+	Please set the dbLocation for demo Sqlite files in appsettings.json file.
+	Please set the appropriated smtp configs in appsettings.json file for email notifiaction sending.
+
